@@ -11,9 +11,10 @@
   will-change: filter;
   transition: filter 300ms;
   margin-bottom: 0;
+  filter: drop-shadow(0 0 0.1em rgba(255, 215, 0, 0.4));
 }
 .logo:hover {
-  filter: drop-shadow(0 0 2em #FFD700);
+  filter: drop-shadow(0 0 1em #FFD700);
 }
 
 .header {
