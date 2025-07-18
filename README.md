@@ -1,12 +1,23 @@
-# React + Vite
+# Personal Website – Lorena Rangel
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project represents a simple yet elegant personal website, designed to showcase my skills and experience as a **Senior Software Engineer**. More importantly, it provided me with a valuable opportunity to explore **React**, **JavaScript**, and **CSS** — technologies I had not worked with before.
 
-Currently, two official plugins are available:
+While building this project, I focused on simplicity and clarity, using a lightweight **React + Vite** setup, complemented by clean **CSS**, to create a professional personal landing page. This website not only presents my core technical experience but also reflects the attention to detail and care I bring to the software I build.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+It’s a small project, but it helped me understand component-based development and the flexibility of modern frontend tooling.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- React
+- Vite
+- JavaScript (ES6+)
+- CSS Modules
+- GitHub Pages
+
+---
+
+## Live Demo
+
+[https://lorenacr.github.io/](https://lorenacr.github.io/)
