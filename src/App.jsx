@@ -1,5 +1,4 @@
 import EmailLink from './components/EmailLink';
-import githubLogo from '/github.svg'
 import './App.css'
 
 function App() {
@@ -8,7 +7,7 @@ function App() {
         <>
             <div className="header">
                 <a href="https://github.com/lorenacr/" target="_blank">
-                    <img src={githubLogo} className="logo" alt="Github Logo" />
+                    <img src='/github.svg' className="logo" alt="Github Logo" />
                 </a>
                 <h1>Lorena Rangel</h1>
                 <div className="links">
